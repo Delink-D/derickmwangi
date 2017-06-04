@@ -12,11 +12,11 @@
 #sills_list {
 	list-style: none;
 }
-.potfolio-item img {
+.portfolio-item img {
 	width: 100%;
 	height: 200px;
 }
-.potfolio-item {
+.portfolio-item {
     width:450px;
     height:200px;
     background:#dcdcdc;
@@ -24,7 +24,7 @@
     margin: 0 0 5px 5px;
     transition: 0.5s;
 }
-.potfolio-item:hover {
+.portfolio-item:hover {
 	transition: 0.5s;
     opacity: 0.6;
 }
