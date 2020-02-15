@@ -18,7 +18,7 @@
 }
 .portfolio-item {
     width:450px;
-    height:200px;
+    height:240px;
     background:#dcdcdc;
     position:relative;
     margin: 0 0 5px 5px;
@@ -33,7 +33,7 @@
     bottom:0;
     width:100%;
     color:#fff;
-    padding:10px 0;
+    padding:7px 0;
     text-indent:5px;
     background:#7B628E;
 }
@@ -372,7 +372,7 @@
 			content: '';
 			position: absolute;
 			left: 0;
-			width: 3.5rem;
+			width: 7rem;
 			height: 0.1rem;
 			background-color: rgba(255, 255, 255, 0.25);
 		}
@@ -1835,7 +1835,7 @@
 		}
 
 			.gallery .group > * {
-				height: 50%;
+				height: 49%;
 			}
 
 		.gallery .modal {
